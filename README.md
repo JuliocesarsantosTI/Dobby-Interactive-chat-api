@@ -8,7 +8,7 @@ Set Up API Communication: The code connects to Fireworks' API, which hosts the D
 
 User Interaction: The program interacts with the user in real-time through a command-line interface. The user types a message, and the AI (Dobby-70B) responds based on the message provided.
 
-Handling User Input: The program waits for the user to type a message, sends it to the API for processing, and outputs the response from the AI model. This cycle repeats until the user decides to exit.
+Handling User Input: The program waits for the user to type a message, sends it to the API for processing, and outputs the response from the AI model. This cycle repeats until the user decides to exit..
 
 Steps to Set Up Interactive Chat Session
 -
